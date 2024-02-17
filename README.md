@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **shlokgaikwad8888@gmail.com**
+- 📫 How to reach me **https://shlokgaikwad.github.io/**
 
 - ⚡ Fun fact **I think I am Funny**
 
