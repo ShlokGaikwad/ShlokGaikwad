@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA and Full stack Development**
 
-- 👨‍💻 All of my projects are available at **[shlokgaikwad.github.io]**
+- 👨‍💻 All of my projects are available at  **shlokgaikwad.github.io**
 
 - 💬 Ask me about **Web Development**
 
