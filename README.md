@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shlokgaikwad.github.io/](https://shlokgaikwad.github.io/)
 
-- 💬 Ask me about **Node js,DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, Mongodb, Node JS and Express JS**
 
 - 📫 How to reach me **shlokgaikwad8888@gmail.com**
 
