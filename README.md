@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlokgaikwad" alt="shlokgaikwad" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and Full stack Development**
+- 🌱 Full Stack Engineer at **Byldd (June 2024 - Present)**
 
 - 👨‍💻 All of my projects are available at [https://shlokgaikwad.github.io/](https://shlokgaikwad.github.io/)
 
